@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mumm</string>
+
+    <string name="close_app">Please click BACK again to exit</string>
+    <string name="check_internet">Check your Internet Connection</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="take_photo">Take photo</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="save_photo">Save Photo</string>
+    <string name="share">Share</string>
+</resources>
